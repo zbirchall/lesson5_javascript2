@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 20,2017)
 
 ### Student Name:  
-(First and Last Name)
+(Zachary Birchall)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The assignment was for us to get used to using the getElementById program and also clearing information by the click of a button.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://zbirchall.github.io/lesson5_javascript2/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to clear information that is attached to a specific option..)
+2. (I learned how tax brackets work.)
+3. (I learned I should not have file separately from my wife because we will both be taxed a lot of our money if we do so.)
 
